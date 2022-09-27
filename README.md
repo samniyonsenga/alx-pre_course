@@ -1,2 +1,2 @@
 My first readme
-It is time to do hard things
+It is time to do hard things for sure
